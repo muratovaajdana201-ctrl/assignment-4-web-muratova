@@ -141,7 +141,7 @@ The first option is "Choose..." and has an empty value. The required attribute m
 
 I used the form-select class to apply Bootstrap styling to the dropdown menu.
 
-#### Validation Feedback and Buttons
+### Validation Feedback and Buttons
 
 The registration form has the was-validated class. This class is used by Bootstrap to display validation styles.
 
@@ -157,7 +157,7 @@ The Reset button has type="reset". It resets the form fields to their initial va
 
 ![Task 4 - Registration Form on Mobile](screenshotsaidana/task4_mobile.png)
 
-## Summary
+### Summary
 
 First, I created a basic contact form with labels, inputs, a textarea, and a Submit button. Then I added HTML5 validation attributes to check the entered data.
 
@@ -169,7 +169,7 @@ Finally, I created a registration form with text fields, email, password inputs,
 
 I also created a separate CSS file to customize the page background, form backgrounds, borders, spacing, and textarea resizing.
 
-## Conclusion
+### Conclusion
 
 In this assignment, I learned how to create HTML forms, validate user input, and style forms with Bootstrap and CSS.
 
